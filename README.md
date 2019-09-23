@@ -2,5 +2,3 @@
 Truc de base pour le démarrage du commencement
 readme2
 Ligne4
-Ligne5
-Ligne6
